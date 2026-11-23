@@ -1,0 +1,18 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Clés et variables sensibles
+.env
+.env.*
+
+# Bases de données et stockage vectoriel
+chroma_db/
+data/chroma_db/
+*.sqlite
+*.db
+
+# Fichiers temporaires
+*.log
+.DS_Store

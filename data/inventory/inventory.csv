@@ -1,0 +1,9 @@
+product_id,product_name,category,quantity,unit,min_quantity,expiry_date
+P001,Tomates,Legumes,3,kg,5,2026-11-25
+P002,Poulet,Viandes,2,kg,4,2026-11-24
+P003,Riz,Cereales,15,kg,5,2026-12-15
+P004,Creme,Laitiers,1,L,3,2026-11-26
+P005,Carottes,Legumes,8,kg,3,2026-11-29
+P006,Fromage,Laitiers,2,kg,4,2026-11-27
+P007,Pommes,fruits,10,kg,4,2026-12-01
+P008,Pommes de terre,Legumes,20,kg,8,2026-12-10
